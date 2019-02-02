@@ -15,7 +15,7 @@ class Header extends Component {
             Junior Software Engineer
           </div>
           <div className="brief-summary">
-            Experienced Junior Software Engineer with a demonstrated history of working in the financial services industry. Skilled in CSS, ReactJS, AngularJS, HTML, JavaScript, MySQL and Git. Strong engineering professional with a Bachelor's degree focused in Information Technology from Vilniaus Universitetas.
+            Experienced Junior Software Engineer with a demonstrated history of working in the financial services industry. Skilled in CSS, ReactJS, AngularJS, HTML, JavaScript, MySQL and Git. Strong engineering professional with a Bachelor's degree focused in Information Technology from Vilnius University.
           </div>
         </div>
         <div className="col-4 personal-info">

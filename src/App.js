@@ -5,6 +5,7 @@ import Experience from './components/experience/index';
 import TechnicalSkills from './components/skills/index';
 import SoftSkills from './components/skills/soft_skills_index';
 import Education from './components/education/index';
+import Volunteer from './components/volunteer/index';
 
 class App extends Component {
   render() {
@@ -12,13 +13,14 @@ class App extends Component {
       <div className="App">
         <Header />
         <div className="row content">
-          <div className="col-3">
+          <div className="col-8">
+            <Experience />
+          </div>
+          <div className="col-4 main_skills">
             <TechnicalSkills />
             <SoftSkills />
             <Education />
-          </div>
-          <div className="col-9">
-            <Experience />
+            <Volunteer />
           </div>
         </div>
       </div>

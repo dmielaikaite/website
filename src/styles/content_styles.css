@@ -1,5 +1,13 @@
-.work, .skills, .education{
+.work, .skills, .education, .volunteer{
   padding: 0px 0px 0px 20px;
+}
+
+.work{
+  padding-left: 50px;
+}
+
+.main_skills{
+  padding-right: 50px;
 }
 
 .title{
@@ -7,9 +15,11 @@
   font-weight: bold;
   font-size: 17px;
   padding: 10px 0px 0px 0px;
+  border-bottom-style: ridge;
 }
 
-.job_title, .top_skills, .planning, .cloud, .school_title{
+.job_title, .top_skills, .planning,
+.cloud, .school_title, .event_title{
   font-weight: bold;
   font-size: 14px;
   padding-top: 10px;
@@ -37,4 +47,8 @@
   margin: 2px;
   font-size: 10px;
   background-color: #2f66bf;
+}
+
+.soft_skills{
+  margin-top: 10px;
 }
