@@ -3,11 +3,12 @@
 }
 
 .work{
-  padding-left: 50px;
+  padding-left: 20px;
 }
 
 .main_skills{
   padding-right: 50px;
+  display: inline-table;
 }
 
 .title{
