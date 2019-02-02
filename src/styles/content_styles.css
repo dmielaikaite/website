@@ -1,21 +1,21 @@
-.work{
+.work, .skills, .education{
   padding: 0px 0px 0px 20px;
 }
 
-.work_title{
+.title{
   text-transform: uppercase;
   font-weight: bold;
   font-size: 17px;
   padding: 10px 0px 0px 0px;
 }
 
-.job_title{
+.job_title, .top_skills, .planning, .cloud, .school_title{
   font-weight: bold;
   font-size: 14px;
   padding-top: 10px;
 }
 
-.company{
+.company, .degree{
   font-size: 12px;
 }
 
@@ -24,10 +24,17 @@
   color: #a3a8af;
 }
 
-.job_description {
+.description {
   font-size: 12px;
+  font-weight: normal;
 }
 
-.job_description div:before {
+.description div:before {
     content: "• "
+}
+
+.soft_skills .btn-primary{
+  margin: 2px;
+  font-size: 10px;
+  background-color: #2f66bf;
 }

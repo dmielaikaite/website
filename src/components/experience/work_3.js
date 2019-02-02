@@ -13,7 +13,7 @@ class Work3 extends Component{
         <div className="start_end_date">
           Feb 2017 - July 2017
         </div>
-        <div className="job_description">
+        <div className="description">
           <div>
             Organize, prioritize, and summarize the content of incoming materials.
           </div>

@@ -13,7 +13,7 @@ class Work4 extends Component{
         <div className="start_end_date">
           October 2016 - January 2017
         </div>
-        <div className="job_description">
+        <div className="description">
           <div>
             Adding new functionality to the existing web application
           </div>

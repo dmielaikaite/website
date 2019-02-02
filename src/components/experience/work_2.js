@@ -13,7 +13,7 @@ class Work2 extends Component{
         <div className="start_end_date">
           July 2017 - April 2018
         </div>
-        <div className="job_description">
+        <div className="description">
           <div>
             Develop new functionality and improve existing applications.
           </div>
