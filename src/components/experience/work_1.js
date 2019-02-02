@@ -24,7 +24,7 @@ class Work1 extends Component{
             Maintaining consistency of all files on all storage systems.
           </div>
           <div>
-            Involved technologies: Python,shell scripting, JavaScript, ReactJS
+            Involved technologies: Python, shell scripting, JavaScript, ReactJS.
           </div>
         </div>
       </div>

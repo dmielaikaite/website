@@ -15,16 +15,16 @@ class Work4 extends Component{
         </div>
         <div className="description">
           <div>
-            Adding new functionality to the existing web application
+            Adding new functionality to the existing web application.
           </div>
           <div>
-            Writing automated Unit and Selenium tests for new functionality
+            Writing automated Unit and Selenium tests for new functionality.
           </div>
           <div>
-            Working with UI
+            Working with UI.
           </div>
           <div>
-            Involved technologies: MEAN Stack, NodeJs, JavaScript, HTML, CSS, AngularJs, MongoDB, REST API, Git
+            Involved technologies: MEAN Stack, NodeJs, JavaScript, HTML, CSS, AngularJs, MongoDB, REST API, Git.
           </div>
         </div>
       </div>

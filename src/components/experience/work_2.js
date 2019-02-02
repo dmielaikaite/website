@@ -27,13 +27,13 @@ class Work2 extends Component{
             Adapt best practices to the development process and shape/influence work environment of a new development team.
           </div>
           <div>
-            Challenge business partners, end users and project team
+            Challenge business partners, end users and project team.
           </div>
           <div>
             Programming in agile team.
           </div>
           <div>
-            Involved technologies: JS, HTML, CSS, ReactJS, MySQL, Git, IBM BPM Process Designer
+            Involved technologies: JavaScript, HTML, CSS, ReactJS, MySQL, Git, IBM BPM Process Designer. 
           </div>
         </div>
       </div>

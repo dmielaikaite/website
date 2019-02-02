@@ -21,7 +21,7 @@ class Work3 extends Component{
             Create and maintain technical documentation, manual.
           </div>
           <div>
-            Involved technologies: MySQL, UML, MS Word, MS Excel, Git
+            Involved technologies: MySQL, UML, MS Word, MS Excel, Git.
           </div>
         </div>
       </div>

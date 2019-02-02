@@ -18,7 +18,7 @@ class TechnicalSkills extends Component{
         <div className="planning">
           Research and planning
           <div className="description">
-            Identifying problems, Developing evaluations,  looking for different kinds of solutions
+            Identifying problems, Developing evaluations, looking for different kinds of solutions
           </div>
         </div>
         <div className="cloud">
