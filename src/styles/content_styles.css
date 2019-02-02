@@ -1,0 +1,33 @@
+.work{
+  padding: 0px 0px 0px 20px;
+}
+
+.work_title{
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 17px;
+  padding: 10px 0px 0px 0px;
+}
+
+.job_title{
+  font-weight: bold;
+  font-size: 14px;
+  padding-top: 10px;
+}
+
+.company{
+  font-size: 12px;
+}
+
+.start_end_date {
+  font-size: 10px;
+  color: #a3a8af;
+}
+
+.job_description {
+  font-size: 12px;
+}
+
+.job_description div:before {
+    content: "• "
+}

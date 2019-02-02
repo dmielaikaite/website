@@ -37,17 +37,17 @@
   display: inline-table;
 }
 
-ul{
+.personal-info ul{
   list-style-type: none;
   padding-top: 20px;
 }
 
-ul li{
+.personal-info ul li{
   padding-bottom: 10px;
   font-size: 10px;
   color: #4e535b;
 }
 
-ul li i {
+.personal-info ul li i {
   padding-left: 10px;
 }
