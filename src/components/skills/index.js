@@ -12,7 +12,7 @@ class TechnicalSkills extends Component{
         <div className="top_skills">
           Top Skills
           <div className="description">
-            ReactJS, JavaScript, Python, HTML, CSS, Flask, AngularJS, Git, MySQL, REST API, Node.js
+            ReactJS, JavaScript,Spark, Hadoop, Python, HTML, CSS, Flask, AngularJS, Git, MySQL, REST API, Node.js
           </div>
         </div>
         <div className="planning">

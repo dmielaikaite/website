@@ -24,7 +24,13 @@ class Work1 extends Component{
             Maintaining consistency of all files on all storage systems.
           </div>
           <div>
-            Involved technologies: Python, shell scripting, JavaScript, ReactJS.
+            Working with big data
+          </div>
+          <div>
+            Manipulating datasets in Spark, Python(Pandas)
+          </div>
+          <div>
+            Involved technologies: Python, Spark, Hadoop, shell scripting, JavaScript, ReactJS.
           </div>
         </div>
       </div>
