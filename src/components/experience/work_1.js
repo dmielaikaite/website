@@ -18,8 +18,14 @@ class Work1 extends Component{
         </div>
         <div className="description">
           <div>
-            Maintaining global file transfers between all distributed CMS sites using CMS ' transfer system PhEDEx, the dynamic data management layer (DDM), the WAN file access infrastructure.
+            Maintaining global file transfers between all distributed CMS sites using CMS ' transfer system PhEDEx, Rucio, the dynamic data management layer (DDM), the WAN file access infrastructure.
           </div>
+          <div>
+            Managing and supporting the secure transfer of data from one storage(disk/tape) to another. 
+          </div>
+          <div>
+            Responsible for the global implementation and configuration of transfer systems on CC7, SL6
+          </div>      
           <div>
             Maintaining consistency of all files on all storage systems.
           </div>
